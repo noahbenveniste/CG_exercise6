@@ -1,4 +1,4 @@
-/* GLOBAL CONSTANTS AND VARIABLES */
+/* GLOBAL CONSTANTS AND VARIABLES *///
 
 /* assignment specific globals */
 const WIN_Z = 0;  // default graphics window z coord in world space
